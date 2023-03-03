@@ -7,7 +7,7 @@ To play the game, you will need to have a C compiler installed on your machine. 
 
 1.Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/tic-tac-toe-c.git
+git clone https://github.com/Cinnamon-8/Tic-Tac-Toe.git
 
 2.Compile the game using the following command:
 
