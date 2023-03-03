@@ -31,9 +31,7 @@ gcc -o tictactoe tictactoe.c
 3.The board positions are numbered as follows:
 
 1 | 2 | 3
-------------
 4 | 5 | 6
-------------
 7 | 8 | 9
 
 4.The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game. If all the positions on the board are filled and no player has won, the game is a tie.
