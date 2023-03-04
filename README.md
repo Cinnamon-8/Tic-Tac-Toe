@@ -14,7 +14,7 @@ git clone https://github.com/Cinnamon-8/Tic-Tac-Toe.git
 
 2.Compile the game using the following command:
 ```bash
-gcc -o tictactoe tictactoe.c
+gcc main.c -o tictactoe
 ```
 
 3.Run the game using the following command:
